@@ -1,0 +1,5 @@
+discord.py>=2.4
+aiosqlite
+python-dotenv
+tzdata
+paramiko
